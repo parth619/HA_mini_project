@@ -1,0 +1,9 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Extra Trees,1.0,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0
+Voting Ensemble,1.0,1.0,1.0,1.0,1.0
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0
+Stacking Ensemble,1.0,1.0,1.0,1.0,1.0
+SVM,0.9875,1.0,0.98,0.98989898989899,1.0
+Logistic Regression,0.975,1.0,0.96,0.9795918367346939,1.0
+Decision Tree,0.975,1.0,0.96,0.9795918367346939,0.98
